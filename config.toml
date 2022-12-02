@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://blog.promomundo.com.br"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
